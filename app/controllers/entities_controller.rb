@@ -2,10 +2,16 @@ class EntitiesController < ApplicationController
 
   active_scaffold :entities do |config|
     record_select :per_page => 20, :search_on => [:name], :order_by => 'name'
+    config.columns << [:financial_data_last_turnover, :financial_data_last_nb_employees]
 
-    config.list.columns = [:name, :website, :comment, :actions]
+    config.list.columns = [:name, :website, :financial_data_last_turnover, :financial_data_last_nb_employees, :comment, :actions ]
     config.create.columns = config.update.columns = [:parent_id, :name, :registration_number, :website, :comment, :address, :phone]
-    config.show.columns = [:parent, :name, :registration_number, :website, :comment, :address, :phone]
+    config.show.columns = [:parent, :name, :registration_number, :website, :financial_data_last_turnover, :financial_data_last_nb_employees, :comment, :address, :phone]
+
+    config.columns[:financial_data_last_turnover].options[:format] = :currency
+
+    config.columns[:financial_data_last_turnover].includes = [:financial_data]
+    config.columns[:financial_data_last_nb_employees].includes = [:financial_data]
 
     config.nested.add_link(:contacts)
     config.nested.add_link(:financial_data)

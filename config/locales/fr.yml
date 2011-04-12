@@ -87,12 +87,13 @@ fr:
         unit: "€"
         separator: ","
         delimiter: " "
-        precision: 2
+        precision: 0
         significant: false
         strip_insignificant_zeros: false
     percentage:
       format:
         delimiter: ""
+        precision: 1
     precision:
       format:
         delimiter: ""
@@ -219,6 +220,18 @@ fr:
         comment: Commentaire
         address: Adresse
         phone: Téléphone
+        financial_data_last_turnover: Dernier CA
+        financial_data_last_ebe: Dernier EBE
+        financial_data_last_nb_employees: Dernier effectifs
+      financial_data:
+        entity: Entitée
+        ebe: EBE
+        turnover: CA
+        year: Année
+        nb_employees: Effectif
+        profit: Resulat
+
+
 
 
 

@@ -17,7 +17,6 @@ module EntitiesHelper
   def comment_show_column(record)
     comment_column(record)
   end
-
   def actions_column(record)
     total = record.actions.count
     if total != 0

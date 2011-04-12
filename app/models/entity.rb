@@ -12,5 +12,8 @@ class Entity < ActiveRecord::Base
 
   accepts_nested_attributes_for :phone, :address
 
+  delegate :last, :to => :financial_data, :prefix => true, :allow_nil => true
+
+  delegate :turnover, :ebe, :nb_employees, :year, :to => :financial_data_last, :prefix => true, :allow_nil => true
 
 end
