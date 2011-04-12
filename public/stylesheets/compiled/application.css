@@ -104,43 +104,51 @@ body .active-scaffold input.text-input, body .active-scaffold textarea, body .ac
   width: 400px;
 }
 /* line 38, ../../../app/stylesheets/application.sass */
+body .active-scaffold strong {
+  font-weight: bold;
+}
+/* line 40, ../../../app/stylesheets/application.sass */
+body .active-scaffold em {
+  font-style: italic;
+}
+/* line 43, ../../../app/stylesheets/application.sass */
 body .active-scaffold .show-view dd {
   font-weight: normal;
 }
-/* line 40, ../../../app/stylesheets/application.sass */
+/* line 45, ../../../app/stylesheets/application.sass */
 body .active-scaffold .show-view dt, body .active-scaffold .show-view dd.name-view {
   font-weight: bold;
 }
-/* line 44, ../../../app/stylesheets/application.sass */
+/* line 49, ../../../app/stylesheets/application.sass */
 body .active-scaffold .record-select-list {
   float: right;
   margin-top: 5px;
 }
-/* line 47, ../../../app/stylesheets/application.sass */
+/* line 52, ../../../app/stylesheets/application.sass */
 body .active-scaffold .record-select-list li {
   float: left;
 }
-/* line 51, ../../../app/stylesheets/application.sass */
+/* line 56, ../../../app/stylesheets/application.sass */
 body .active-scaffold .address-subform, body .active-scaffold .phone-subform {
   margin-left: -5px;
 }
-/* line 53, ../../../app/stylesheets/application.sass */
+/* line 58, ../../../app/stylesheets/application.sass */
 body .active-scaffold .address-subform ol.association-record, body .active-scaffold .phone-subform ol.association-record {
   margin-left: 0;
   padding-left: 0;
 }
-/* line 58, ../../../app/stylesheets/application.sass */
+/* line 63, ../../../app/stylesheets/application.sass */
 body .active-scaffold .toggle-entity-children {
   position: relative;
   padding-left: 20px;
 }
-/* line 61, ../../../app/stylesheets/application.sass */
+/* line 66, ../../../app/stylesheets/application.sass */
 body .active-scaffold .toggle-entity-children span {
   position: absolute;
   top: 50%;
   margin-top: -8px;
 }
-/* line 65, ../../../app/stylesheets/application.sass */
+/* line 70, ../../../app/stylesheets/application.sass */
 body .active-scaffold a[id^="as_entities"][id$="index--link"] {
   display: none;
 }
