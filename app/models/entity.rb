@@ -16,4 +16,5 @@ class Entity < ActiveRecord::Base
 
   delegate :turnover, :ebe, :nb_employees, :year, :to => :financial_data_last, :prefix => true, :allow_nil => true
 
+  default_scope :order => "name asc"
 end
