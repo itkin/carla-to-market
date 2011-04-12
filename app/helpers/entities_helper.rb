@@ -5,7 +5,7 @@ module EntitiesHelper
   end
   def name_column(record)
     raw(link_to "#", :class=> "toggle-entity-children", :id => "toogle-children-#{record.id}" do
-      content_tag(:span, "", :class => 'ui-icon ui-icon-triangle-1-e') + record.name.to_s
+      content_tag(:span, "", :class => 'ui-icon ui-icon-triangle-1-e') + record.name.to_s + (record.children.blank? ? '' : " (#{record.children.size})")
     end)
   end
   def name_show_column(record)

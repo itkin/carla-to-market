@@ -1,6 +1,7 @@
 class Phone < ActiveRecord::Base
 
-  belongs_to :phone, :polymorphic => true
+  belongs_to :phonable, :polymorphic => true
+
 
   def to_label
     str = ""
