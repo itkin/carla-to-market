@@ -1,0 +1,3 @@
+[submodule "public/javascripts/livequery"]
+	path = public/javascripts/livequery
+	url = git://github.com/brandonaaron/livequery.git

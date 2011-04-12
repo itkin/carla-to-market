@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* line 14, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+/* line 17, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+body {
+  line-height: 1;
+  color: black;
+  background: white;
+}
+
+/* line 19, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 21, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+/* line 23, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 25, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: "" "";
+}
+/* line 96, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+}
+
+/* line 27, ../../../../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+@font-face {
+  font-family: "Androgyne";
+  src: url('/fonts/AndrogyneMedium.eot');
+  src: local("☺"), url('/fonts/AndrogyneMedium.ttf') format('truetype'), url('/fonts/AndrogyneMedium.otf') format('opentype');
+}
+
+/* line 6, ../../../app/stylesheets/application.sass */
+body {
+  font-family: arial;
+}
+/* line 9, ../../../app/stylesheets/application.sass */
+body .spacer {
+  clear: both;
+  line-height: 1px;
+  font-size: 0.1px;
+}
+/* line 14, ../../../app/stylesheets/application.sass */
+body #header {
+  border: none;
+  margin-bottom: 1px;
+}
+/* line 17, ../../../app/stylesheets/application.sass */
+body #header #title {
+  height: 60px;
+  line-height: 65px;
+  font-size: 40px;
+  padding-left: 10px;
+  font-family: Androgyne;
+}
+/* line 24, ../../../app/stylesheets/application.sass */
+body #header #deconnect {
+  float: right;
+  padding: 10px 5px;
+  margin-left: 20px;
+}
+/* line 28, ../../../app/stylesheets/application.sass */
+body #header #notice {
+  float: right;
+  padding: 10px 5px;
+}
+/* line 35, ../../../app/stylesheets/application.sass */
+body .active-scaffold input.text-input, body .active-scaffold textarea, body .active-scaffold select {
+  width: 400px;
+}
+/* line 38, ../../../app/stylesheets/application.sass */
+body .active-scaffold .show-view dd {
+  font-weight: normal;
+}
+/* line 40, ../../../app/stylesheets/application.sass */
+body .active-scaffold .show-view dt, body .active-scaffold .show-view dd.name-view {
+  font-weight: bold;
+}
+/* line 44, ../../../app/stylesheets/application.sass */
+body .active-scaffold .record-select-list {
+  float: right;
+  margin-top: 5px;
+}
+/* line 47, ../../../app/stylesheets/application.sass */
+body .active-scaffold .record-select-list li {
+  float: left;
+}
+/* line 51, ../../../app/stylesheets/application.sass */
+body .active-scaffold .address-subform, body .active-scaffold .phone-subform {
+  margin-left: -5px;
+}
+/* line 53, ../../../app/stylesheets/application.sass */
+body .active-scaffold .address-subform ol.association-record, body .active-scaffold .phone-subform ol.association-record {
+  margin-left: 0;
+  padding-left: 0;
+}
+/* line 58, ../../../app/stylesheets/application.sass */
+body .active-scaffold .toggle-entity-children {
+  position: relative;
+  padding-left: 20px;
+}
+/* line 61, ../../../app/stylesheets/application.sass */
+body .active-scaffold .toggle-entity-children span {
+  position: absolute;
+  top: 50%;
+  margin-top: -8px;
+}
+/* line 65, ../../../app/stylesheets/application.sass */
+body .active-scaffold a[id^="as_entities"][id$="index--link"] {
+  display: none;
+}

@@ -1,0 +1,593 @@
+addressable_type,addressable_id,street,zip_code,city
+Entity,1103,"Le Royal 1, 1 allée des Centaurées",38240,MEYLAN
+Entity,1143,"Immeuble l'Escurial, 11 boulevard Jeanne d'Arc",13005,MARSEILLE
+Entity,835,"Le Nouveau Siècle, 13 Place Mendès France",59800,LILLE
+Entity,1137,", 146 rue Paradis",13006,MARSEILLE
+Entity,647,"7 boulevard Voltaire, 1er étage",75011,PARIS
+Entity,1131,"ZI Ecopolis, 2 rue Frédéric Sauvage",13500,MARTIGUES
+Entity,701,"BP 27, 22 angle place/rue des Tanneurs",77401,LAGNY SUR MARNE CEDEX
+Entity,1042,"Technolac - BP 371, 23, avenue du Lac Léman",73372,LE BOURGET DU LAC CEDEX
+Entity,1043,"Technolac - BP 371, 23, avenue du Lac Léman",77372,LE BOURGET DU LAC CEDEX
+Entity,1037,"Direction Générale, 26 rue Bellecordière",69002,LYON
+Entity,846,"""Château Rouge"", 276 avenue de la Marne",59700,MARCQ EN BAROEUL
+Entity,619,"Bâtiment Uranus - Continental Square, 3 place de Londres - BP 15767",95727,ROISSY CHARLES DE GAULLE Cedex
+Entity,1077,"La maison de l'emploi, 3 rue Pierre Dupont",69190,SAINT FONS
+Entity,1050,"Le Trident - Bâtiment A, 34 avenue de l'Europe",38100,GRENOBLE
+Entity,1117,"Lotissement Le Belvédère, 60, rue Louis Jouvet",34500,BEZIERS
+Entity,992,"Espace Toki Lana, 7 chemin de la Marouette",64100,BAYONNE
+Entity,1160,"Espace Eole - Hall B, 70 rue de la Coquillade",13540,AIX EN PROVENCE
+Entity,1007,"Technoclub Bât B, Avenue de l'Hippodrome",33170,GRADIGNAN
+Entity,1114,"Résidence Les Lauriers - Route d'Agde, Avenue Harold E. Kline - BP 87",34120,PEZENAS
+Entity,1147,"L'Agora - Chemin Champs de Pruniers, Bat E",04100,MANOSQUE
+Entity,1157,"455 promenade des Anglais, Bâtiment Aéropole",06200,NICE
+Entity,935,"11 rue Emile Brault, BP 0327",53003,LAVAL
+Entity,944,"ZA de Saint André des Eaux, BP 07",44117,SAINT ANDRE DES EAUX
+Entity,592,"46 rue de Montlhéry, BP 10166",94150,RUNGIS
+Entity,904,"80 rue du Faubourg National, BP 102",67069,STRASBOURG
+Entity,691,"19 rue des Alouettes, BP 115",95600,EAUBONNE
+Entity,908,"43 rue du Faubourg de Saverne, BP 118",67069,STRASBOURG CEDEX
+Entity,871,"2, rue des Tisserands, BP 138",88195,GOLBEY CEDEX
+Entity,877,"8 rue de Saint Exupéry, BP 142",88104,SAINT DIE CEDEX
+Entity,949,"2 rue Jean-Marie Baudet, BP 17",22360,LANGUEUX
+Entity,713,"14 Cité Trévise, BP 18",75009,PARIS
+Entity,853,"4 bis rue Saint Louis, BP 20",57150,CREUTZWALD
+Entity,1153,"130, avenue de Lattre de Tassigny, BP 21",13831,CHATEAURENARD CEDEX
+Entity,1039,"7 rue Louis Guérin, BP 2133",69603,VILLEURBANNE CEDEX
+Entity,788,"47 rue de la Harpe, BP 247",27002,EVREUX CEDEX
+Entity,942,"1 rue de la Mourie, BP 261",85602,MONTAIGU CEDEX
+Entity,932,"51 rue de la République, BP 292",85205,FONTENAY LE COMTE CEDEX
+Entity,894,"60 c avenue de Colmar, BP 3066",68062,MULHOUSE CEDEX
+Entity,754,"9 chaussée Jules César, BP 335 - Osny",95526,CERGY PONTOISE CEDEX
+Entity,1082,"4 avenue du 24 août 1944, BP 382",69960,CORBAS
+Entity,653,"Avenue du Château, BP 40",78480,VERNEUIL SUR SEINE
+Entity,1030,"20 B Cours Jourdan, BP 40 235",87006,LIMOGES Cedex
+Entity,1029,"20 A cours Jourdan, BP 40-235",87006,LIMOGES CEDEX
+Entity,963,"6 avenue du Général Desbordes, BP 40355",56018,VANNES CEDEX
+Entity,927,"2 bis avenue du Professeur Jean Rouxel, BP 40721",44481,CARQUEFOU CEDEX
+Entity,1095,"140 rue des Chantiers du Beaujolais, BP 466",69659,VILLEFRANCHE CEDEX
+Entity,793,"56 avenue Marcel Dassault, BP 500",37205,TOURS CEDEX
+Entity,806,"52 boulevard Schuman, BP 516",50105,CHERBOURG CEDEX
+Entity,1134,"25 rue Victor Clappier, BP 5227",83095,TOULON CEDEX
+Entity,921,"Impasse des Graviers, BP 53206",25200,MONTBELLIARD
+Entity,1141,"6, rue Gueymard, BP 57",13703,LA CIOTAT
+Entity,753,"34 rue du Pont de Créteil, BP 60",94102,SAINT MAUR CEDEX
+Entity,859,"60 Boulevard de Lorraine, BP 60217",57506,SAINT AVOLD CEDEX
+Entity,869,"60 Boulevard de Lorraine, BP 60217",57506,SAINT AVOLD CEDEX
+Entity,937,"29 avenue Joxé, BP 60411",49104,ANGERS CEDEX 02
+Entity,839,"10 avenue des Sports, BP 60500",59815,LESQUIN Cedex
+Entity,840,"10 avenue des Sports, BP 60500",59815,LESQUIN Cedex
+Entity,1140,"Place Pompidou - ZAC Mayol, BP 60844",83051,TOULON CEDEX
+Entity,975,"30 rue Louis Aguillon, BP 63",79202,PARTHENAY
+Entity,763,"Rue de l'Eclipse, BP 68298",95802,CERGY CEDEX
+Entity,884,"12 parc de la Tannerie, BP 70013 Saint Julien Les Metz",57072,METZ CEDEX
+Entity,900,"8 bis rue du 4e Zouave, BP 72",67602,SELESTAT CEDEX
+Entity,812,"37 rue de la République, BP 75",71300,MONTCEAU LES MINES Cedex 75
+Entity,644,"50 bis boulevard de Chanzy, BP 78",93891,LIVRY GARGAN CEDEX
+Entity,913,"13 Route du Polygone, BP 79",67028,STRASBOURG
+Entity,872,"39 boulevard de Lorraine, BP 80043",57500,SAINT AVOLD
+Entity,886,"32 rue de l'Industrie, BP 80340",67411,ILLKIRCH Cedex
+Entity,797,"37 B, quai de Prague, BP 8139",45081,ORLEANS Cedex 2
+Entity,917,"26, rue de l'Eglise, BP 877",25025,BESANCON CEDEX
+Entity,1118,"17 quai Bossier de Sauvages, BP 90243",30105,ALES CEDEX
+Entity,1068,"17 rue Louis Loucheur, BP 9114",69263,LYON CEDEX 09
+Entity,919,"7 rue Xavier Marmier, BP 91222",25004,BESANCON Cedex
+Entity,805,"40 rue Pierre Girard, BP 93109",14019,CAEN CEDEX 2
+Entity,1164,"Immeuble bois carré, Carrefour Mangot Vulcin",97232,LE LAMENTIN
+Entity,858,"19 rue du Pré Gondé, City Park - Technopôle Bat. D",57070,METZ
+Entity,1132,"36 boulevard de l'Océan, CS 20280",13258,MARSEILLE Cedex 09
+Entity,933,"3, rue du Marché Commun, CS 23494",44334,NANTES CEDEX 3
+Entity,1107,"31 Chemin des Pins, Domaine de la Rivoire Basse",43120,MONISTROL SUR LOIRE
+Entity,1149,"4, place Sadi Carnot, Entrée 26 rue Colbert",13002,MARSEILLE
+Entity,678,"22 rue st augustin, escalier G-5 étage",75002,PARIS
+Entity,1120,"ZAE les Rodettes, Espace Athéna - Rue des Frères Bouillon",34120,PEZENAS
+Entity,1123,"ZI Saint Joseph, Immeuble Actiplus",04100,MANOSQUE
+Entity,677,"131-135 boulevard Carnot, Immeuble Le Sully",78110,LE VESINET
+Entity,1165,"300 rue du Lycée, Immeuble Station 1",97440,SAINT ANDRE
+Entity,740,"Immeuble le Monge - 22 place des Vosges, La Défense 5",92972,PARIS LA DEFENSE
+Entity,966,"6 rue de Châtillon, La Rigourdière",35510,CESSON-SEVIGNE
+Entity,1126,"2 bis rue Fargès, Le Prado-Fargès",13008,MARSEILLE
+Entity,946,"4 rue Benjamin Franklin, Les Bazinières",85000,LA ROCHE SUR YON
+Entity,947,"4 rue Benjamin Franklin, Les Bazinières",85000,LA ROCHE SUR YON
+Entity,847,"1430 RD 916, Lieudit  ""Le Klap Hoek""",59380,QUAEDYPRE
+Entity,999,"1 avenue Minerva, Résidence A de Bayonne",64600,ANGLET
+Entity,813,"21/105 rue Renoir, Résidence Galliéni",89000,AUXERRE
+Entity,855,"3 rue Pasteur, Résidence Le Richelieu",57300,HAGONDANGE
+Entity,1159,"RN 7, Résidence Liebauds",83340,LE LUC
+Entity,985,"38 rue Emile Guichenné, Résidence Massabielle",64000,PAU
+Entity,925,"2 bis avenue du Professeur Jean Rouxel, Rond point de la Fleuriaye - BP 40721",44481,CARQUEFOU CEDEX
+Entity,1121,"26 rue Yehudin Menuhin, Route de Nîmes",34000,MONTPELLIER
+Entity,987,"Rond Point de Mourenx, Route de Pau",64150,MOURENX
+Entity,795,"Technopolis, Rue Blaise Pascal",28000,CHARTRES
+Entity,980,"Résidence Caroline, Rue Jean Rouby",24120,TERRASSON LAVILLEDIEU
+Entity,962,"ZA de la Teillais, Rue Jean-Marie David",35740,PACE
+Entity,1162,"16 rue Anatole Hugot, Savannah",97460,SAINT PAUL
+Entity,976,"3 rue Claude Chappe, Site de Chalembert - BP 42",86130,JAUNAY-CLAN
+Entity,861,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,862,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,863,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,864,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,865,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,866,"11 rue Pierre Simon de Laplace, Technopôle Metz 2000",57070,METZ
+Entity,1151,"79 bis boulevard de l'Europe, Z.I. de l'Anjoly",13127,VITROLLES
+Entity,849,"Route de l'Avenir, ZA de la Vallée de l'Orne",57780,ROSSELANGE
+Entity,953,"15 rue du Ventoué, ZA du Ventoué",22400,LAMBALLE
+Entity,923,"Rue Bobby Sands, ZAC de la Loire - BP 80095",44814,SAINT HERBLAIN CEDEX
+Entity,1015,"Rue Louis Gay Lussac, ZI de la Pomme",31250,REVEL
+Entity,1127,"2 Rue de Stockholm, ZI des Estroublans",13127,VITROLLES
+Entity,1152,"Immeuble Actiplus, ZI Saint Joseph",04100,MANOSQUE
+Entity,585,"16 rue de la Tour, ",94516,RUNGIS Cedex
+Entity,586,"15 rue de Madrid, ",75008,PARIS
+Entity,587,"21 rue d'Hauteville, ",75010,PARIS
+Entity,588,"3, rue du général de Gaulle, ",77000,MELUN
+Entity,589,"43 rue du Rocher, ",75008,PARIS
+Entity,590,"23, avenue du Maine, ",75015,PARIS
+Entity,591,"29, rue Saint-Maur, ",75011,PARIS
+Entity,593,"96 avenue du Général Leclerc, ",92100,BOULOGNE BILLANCOURT
+Entity,594,"11 avenue du Colonel Bonnet, ",75016,PARIS
+Entity,595,"34 rue François Mouthon, ",91380,CHILLY MAZARIN
+Entity,596,"4 rue Mayran, ",75009,PARIS
+Entity,597,"116 rue du Faubourg Saint-Martin, ",75010,PARIS
+Entity,598,"137, bd de Champigny, ",94210,LA VARENNE SAINT HILAIRE
+Entity,599,"128 rue de la Boétie, ",75008,PARIS
+Entity,600,"12 place Jacques Bonsergent, ",75010,PARIS
+Entity,601,"66 rue de Cantagrel, ",75013,PARIS
+Entity,602,"6 place d'Estienne d'Orves, ",75009,PARIS
+Entity,603,"14 rue de Siam, ",75016,PARIS
+Entity,604,"30 rue des 3 Frères, ",75018,PARIS
+Entity,605,"2 rue Adolphe Mille, ",75019,PARIS
+Entity,606,"83 rue de Maubeuge, ",75010,PARIS
+Entity,607,"54 rue Pierre Butin, ",95300,PONTOISE
+Entity,608,"6 Avenue de la République, ",77340,PONTAULT COMBAULT
+Entity,609,"15 rue du Château d'eau, ",75010,PARIS
+Entity,610,"13 boulevard de Clichy, ",75009,PARIS
+Entity,611,"54 rue Pierre Butin, ",95300,PONTOISE
+Entity,612,"39 avenue Philippe Auguste, ",75011,PARIS
+Entity,613,"17, rue Saint-Etienne, ",77000,MELUN
+Entity,614,"6 rue de Madrid, ",75008,PARIS
+Entity,615,"93-95 avenue Marceau, ",92400,COURBEVOIE
+Entity,616,"46 boulevard de Magenta, ",75010,PARIS
+Entity,617,"3 sente des Dorées, ",75019,PARIS
+Entity,618,"414 rue Saint Honoré, ",75008,PARIS
+Entity,620,"66 boulevard de Magenta, ",75010,PARIS
+Entity,621,"27 bis boulevard Diderot, ",75012,PARIS
+Entity,622,"16 rue Béranger, ",75003,PARIS
+Entity,623,"2 rue de la Pépinière, ",75008,PARIS
+Entity,624,"39-41 avenue Philippe Auguste, ",75011,PARIS
+Entity,625,"31 rue Marbeuf, ",75008,PARIS
+Entity,626,"42 rue Laborde, ",75008,PARIS
+Entity,627,"78 avenue Manceau, ",75008,PARIS
+Entity,628,"63, rue Léon Frot, ",75011,PARIS
+Entity,629,"17 rue de Neuilly, ",93130,NOISY LE SEC
+Entity,630,"2 rue Toulouse Lautrec, ",75017,PARIS
+Entity,631,"83/85, rue Pelleport, ",75020,PARIS
+Entity,632,"252 rue de Vaugirard, ",75015,PARIS
+Entity,633,"41 rue La Fayette, ",75009,PARIS
+Entity,634,"54 rue du Faubourg Montmartre, ",75009,PARIS
+Entity,635,"94 rue Saint Lazarre, ",75009,PARIS
+Entity,636,"18 avenue de la Gare, ",95150,TAVERNY
+Entity,637,"63, rue de Strasbourg, ",93200,SAINT DENIS
+Entity,638,"20 rue Joubert, ",75009,PARIS
+Entity,639,"14 rue d'Armaillé, ",75017,PARIS
+Entity,640,"94, rue Lafayette, ",75010,PARIS
+Entity,641,"74 rue de Maubeuge, ",75009,PARIS
+Entity,642,"57 rue des Mathurins, ",75008,PARIS
+Entity,643,"12 rue Taylor, ",75010,PARIS
+Entity,645,"144 boulevard Pereire, ",75017,PARIS
+Entity,646,"83 rue de la Victoire, ",75009,PARIS
+Entity,648,"43 boulevard Malesherbes, ",75008,PARIS
+Entity,649,"90 rue de Villiers, ",92300,LEVALLOIS PERRET
+Entity,650,"51 Rue de la Chausée d'Antin, ",75009,PARIS
+Entity,651,"112 rue Réaumur, ",75002,PARIS
+Entity,652,"171 Quai Valmy, ",75010,PARIS
+Entity,654,"102, rue de la Tour, ",94516,RUNGIS CEDEX
+Entity,655,"39 Rue de Chateaudun, ",75009,PARIS
+Entity,656,"82 rue de Dunkerque, ",75009,PARIS
+Entity,657,"10, rue de Chantilly, ",75009,PARIS
+Entity,658,"51 Bd de la République, ",92100,BOULOGNE BILLANCOURT
+Entity,659,"17 rue de la Paix, ",75002,PARIS
+Entity,660,"96 avenue du Général Leclerc, ",92100,BOULOGNE BILLANCOURT
+Entity,661,"10 rue de la Sablière, ",92634,GENNEVILLIERS CEDEX
+Entity,662,"201 boulevard Jean Jaurès, ",92100,BOULOGNE BILLANCOURT
+Entity,663,"24 rue de Paradis, ",75010,PARIS
+Entity,664,"3, rue Clapeyron, ",75008,PARIS
+Entity,665,"12 rue Chabanais, ",75002,PARIS
+Entity,666,"31 rue Tronchet, ",75008,PARIS
+Entity,667,"95, boulevard Saint Michel, ",75005,PARIS
+Entity,668,"8 rue Mayran, ",75009,PARIS
+Entity,669,"26-28 Cité Industrielle, ",75011,PARIS
+Entity,670,"106 cours de Vincennes, ",75012,PARIS
+Entity,671,"5 rue Chambiges, ",75008,PARIS
+Entity,672,"31 avenue de l'Opéra, ",75001,PARIS
+Entity,673,"104 boulevard  Magenta, ",75010,PARIS
+Entity,674,"75 boulevard de Picpus, ",75012,PARIS
+Entity,675,"40, rue de Cronstadt, ",75015,PARIS
+Entity,676,"107 rue du Château, ",75014,PARIS
+Entity,679,"97 rue Gabriel Péri, ",91300,MASSY
+Entity,680,"142 boulevard du Montparnasse, ",75014,PARIS
+Entity,681,"4 rue de Penthièvre, ",75008,PARIS
+Entity,682,"96 rue de Montreuil, ",75011,PARIS
+Entity,683,"6, rue des Bateliers, ",92583,CLICHY CEDEX
+Entity,684,"48 rue Montmartre, ",75002,PARIS
+Entity,685,"9 rue Duphot, ",75001,PARIS
+Entity,686,"9 rue Duphot, ",75001,PARIS
+Entity,687,"9 rue Duphot, ",75001,PARIS
+Entity,688,"75 rue du Père Corentin, ",75014,PARIS
+Entity,689,"1 bis boulevard Berthier, ",75017,PARIS
+Entity,690,"3 boulevard Berthier, ",75017,PARIS
+Entity,692,"7 rue Lincoln, ",75008,PARIS
+Entity,693,"95 avenue Marceau, ",92400,COURBEVOIE
+Entity,694,"147 boulevard Magenta, ",75010,PARIS
+Entity,695,"43 rue du Faubourg Montmartre, ",75009,PARIS
+Entity,696,"9 rue Condorcet, ",75009,PARIS
+Entity,697,"7-9 rue Jacques Bingen, ",75017,PARIS
+Entity,698,"9 rue de Rocroy, ",75010,PARIS
+Entity,699,"7 rue Abel, ",75012,PARIS
+Entity,700,"15 rue Tronchet, ",75008,PARIS
+Entity,702,"10 rue Royale, ",75008,PARIS
+Entity,703,"126 rue Armand Silvestre, ",92400,COURBEVOIE
+Entity,704,"71 rue Rambuteau, ",75004,PARIS
+Entity,705,"18 rue Daunou, ",75002,PARIS
+Entity,706,"39 rue de Rome, ",75008,PARIS
+Entity,707,"4 avenue de la République, ",94400,VITRY SUR SEINE
+Entity,708,"14 rue Ybry, ",92200,NEUILLY SUR SEINE
+Entity,709,"207 rue Vercingétorix, ",75014,PARIS
+Entity,710,"21 place de la République, ",75003,PARIS
+Entity,711,"29 boulevard Edgar Quinet, ",75014,PARIS
+Entity,712,"27 rue de Rome, ",75008,PARIS
+Entity,714,"58 rue Aristide Briand, ",92300,LEVALLOIS PERRET
+Entity,715,"163 avenue Achille Peretti, ",92200,NEUILLY SUR SEINE
+Entity,716,"10 rue Maurepas, ",92504,RUEIL MALMAISON
+Entity,717,"11 rue Bailly, ",92200,NEUILLY SUR SEINE
+Entity,718,"8 Place Boulnois, ",75017,PARIS
+Entity,719,"33 avenue de la République, ",94300,VINCENNES
+Entity,720,"11, rue Alexandre Dumas, ",75011,PARIS
+Entity,721,"60 rue de l'Arcade, ",75008,PARIS
+Entity,722,"21 rue des Trois Bornes, ",75011,PARIS
+Entity,723,"3 boulevard Sébastopol, ",75001,PARIS
+Entity,724,"200 rue de la Fosse aux Anglais, ",77190,DAMMARIE LES LYS
+Entity,725,"88 avenue du Général Leclerc, ",92100,BOULOGNE BILLANCOURT
+Entity,726,"40 rue Pierre Butin, ",95300,PONTOISE
+Entity,727,"11 rue du 4 septembre, ",75002,PARIS
+Entity,728,"4 rue Villebois Mareuil, ",75017,PARIS
+Entity,729,"32 rue de Solférino, ",92100,BOULOGNE BILLANCOURT
+Entity,730,"34 rue Godot de Mauroy, ",75009,PARIS
+Entity,731,"98 avenue Henri Ginoux, ",92120,MONTROUGE
+Entity,732,"87 boulevard Magenta, ",75010,PARIS
+Entity,733,"82 rue de l'Aqueduc, ",75010,PARIS
+Entity,734,"276 avenue du Président Wilson, ",93200,SAINT DENIS
+Entity,735,"21 rue d'Hauteville, ",75010,PARIS
+Entity,736,"10 avenue de la Grande Armée, ",75017,PARIS
+Entity,737,"25 bis avenue de la République, ",77340,PONTAULT COMBAULT
+Entity,738,"29-31 rue Saint Augustin, ",75002,PARIS
+Entity,739,"78 rue Pierre Butin, ",95300,PONTOISE
+Entity,741,"9-11 rue Pagès, ",92150,SURESNES
+Entity,742,"14 rue d'Alsace, ",78200,MANTES LA JOLIE
+Entity,743,"11 rue de Rouen, ",95300,PONTOISE
+Entity,744,"5 rue Beudant, ",75017,PARIS
+Entity,745,"5, rue Euryale Dehaynin, ",75019,PARIS
+Entity,746,"9 rue Jean Lebas, ",93140,BONDY
+Entity,747,"41 rue de l'Echiquier, ",75010,PARIS
+Entity,748,"104 rue Lafayette, ",75010,PARIS
+Entity,749,"24 rue de Penthièvre, ",75008,PARIS
+Entity,750,"3 rue Gerbier, ",75011,PARIS
+Entity,751,"18 avenue du Général de Gaulle, ",92250,LA GARENNE COLOMBES
+Entity,752,"293 rue du Faubourg Saint Antoine, ",75011,PARIS
+Entity,755,"11 avenue du Colonel Bonnet, ",75016,PARIS
+Entity,756,"54-56 avenue du Général Leclerc, ",92100,BOULOGNE BILLANCOURT
+Entity,757,"112 rue La Tour, ",94516,RUNGIS CEDEX
+Entity,758,"5 rue Abel, ",75012,PARIS
+Entity,759,"103 boulevard de Magenta, ",75010,PARIS
+Entity,760,"10 rue de Paradis, ",75010,PARIS
+Entity,761,"38 rue Condorcet, ",75009,PARIS
+Entity,762,"99 avenue du général Leclerc, ",94700,MAISONS ALFORT
+Entity,764,"22 rue Charcot, ",75013,PARIS
+Entity,765,"67 rue Barrault, ",75013,PARIS
+Entity,766,"62, avenue du Docteur Arnold Netter, ",75012,PARIS
+Entity,767,"47 rue de Ponthieu, ",75008,PARIS
+Entity,768,"29 avenue Anatole France, ",94600,CHOISY LE ROI
+Entity,769,"23, rue Balzac, ",75008,PARIS
+Entity,770,"3 avenue Philippe Auguste, ",75011,PARIS
+Entity,771,"97 allée de la Gare, ",77350,LE MEE SUR SEINE
+Entity,772,"125 avenue Pierre Brossolette, ",10000,TROYES
+Entity,773,"9 boulevard de la Motte, ",51200,EPERNAY
+Entity,774,"58 avenue Jean Jaurès, ",51000,CHALONS EN CHAMPAGNE
+Entity,775,"2 rue Gaston Boyer, ",51100,REIMS
+Entity,776,"25, Cours Guynemer, ",60200,COMPIEGNE
+Entity,777,"12 bis place Lafayette, ",02100,SAINT QUENTIN
+Entity,778,"8 rue des otages, ",80000,AMIENS
+Entity,779,"7, rue de Creil, ",60500,CHANTILLY
+Entity,780,"33 bis du Général de Gaulle, ",60000,BEAUVAIS
+Entity,781,"1 rue du Bac, ",76000,ROUEN
+Entity,782,"64 quai Cavalier de la Salle, ",76100,ROUEN
+Entity,783,"18 Bis Avenue Aristide Briand, ",27000,EVREUX
+Entity,784,"94 rue Voltaire, ",76600,LE HAVRE
+Entity,785,"30 bis rue du Mail, ",76100,ROUEN
+Entity,786,"121 bis rue de Paris, ",76600,LE HAVRE
+Entity,787,"91 rue de Paris, ",76600,LE HAVRE
+Entity,789,"33 Rue du 11 novembre 1918, ",27400,LOUVIERS
+Entity,790,"164 avenue de Grammont, ",37000,TOURS
+Entity,791,"24 route Nationale, ",41260,LA CHAUSSEE SAINT VICTOR
+Entity,792,"1 rue du Square Emile Péraudin, ",18100,VIERZON
+Entity,794,"21 rue de Bordebure, ",37250,SORIGNY
+Entity,796,"3, rue Richelieu, ",37000,TOURS
+Entity,798,"1 rue Michel Royer, ",45100,ORLEANS
+Entity,799,"13 boulevard de Verdun, ",45000,ORLEANS
+Entity,800,"6 rue Ledru Rollin, ",36000,CHATEAUROUX
+Entity,801,"123 rue Bannier, ",45000,ORLEANS
+Entity,802,"13 avenue de Langennerie, ",37390,CHANCEAUX SUR CHOISILLE
+Entity,803,"17, rue Porte Saint-Jean, ",45000,ORLEANS
+Entity,804,"2 rue Girodet, ",45000,ORLEANS
+Entity,807,"93 rue de la Falaise, ",14000,CAEN
+Entity,808,"1080 Avenue des Vendéens, ",50400,GRANVILLE
+Entity,809,"144 rue André Malraux, ",50000,SAINT LO
+Entity,810,"29, rue Saint Michel, ",14000,CAEN
+Entity,811,"4 rue Dom Plancher, ",21000,DIJON
+Entity,814,"75 bis avenue de Langres, ",21000,DIJON
+Entity,815,"3 bis quai du Général Leclerc, ",89300,JOIGNY
+Entity,816,"18 avenue du Maréchal Foch, ",21000,DIJON
+Entity,817,"8 bis rue Paul Langevin, ",21300,CHENOVE
+Entity,818,"21 rue Renoir, ",89000,AUXERRE
+Entity,819,"6 avenue du Général de Gaulle, ",71160,DIGOIN
+Entity,820,"15, avenue Boucicaut, ",71100,CHALON SUR SAONE
+Entity,821,"10, rue Cazotte, ",21000,DIJON
+Entity,822,"33 rue Guérin, ",71400,AUTUN
+Entity,823,"18 rue du Petit Mouësse, ",58000,NEVERS
+Entity,824,"44, rue d'Autun, ",71100,CHALON SUR SAONE
+Entity,825,"69 rue Desvoge, ",21000,DIJON
+Entity,826,"14 rue Tholozé, ",59300,VALENCIENNES
+Entity,827,"48 avenue Jean-Baptiste Lebas, ",59100,ROUBAIX
+Entity,828,"64 bis boulevard de la Liberté, ",59800,LILLE
+Entity,829,"650 avenue du Général de Gaulle, ",59910,BONDUES
+Entity,830,"16 rue de Chatillon, ",62970,COURCELLE LES LENS
+Entity,831,"220-222 Grande Rue, ",59100,ROUBAIX
+Entity,832,"68 rue du Lapin Blanc, ",59640,DUNKERQUE
+Entity,833,"167 Avenue de Denain, ",59300,VALENCIENNES
+Entity,834,"13 avenue Alfred Lefrançois, ",59200,TOURCOING
+Entity,836,"14, avenue de Denain, ",59300,VALENCIENNES
+Entity,837,"4 rue Chanzy, ",62000,ARRAS
+Entity,838,"982 rue Raoul Briquet, ",62700,BRUAY LA BUISSIERE
+Entity,841,"7 rue de la paix, ",59760,GRANDE SYNTHE
+Entity,842,"4 rue Gustave Fontaine, ",59210,COUDEKERQUE BRANCHE
+Entity,843,"41 rue Victor Hugo, ",62300,LENS
+Entity,844,"Parc d'activité du Mont Houy, ",59300,AULNOY LES VALENCIENNES
+Entity,845,"1 rue de l'Industrie, ",59164,MARPENT
+Entity,848,"27 rue Watteau, ",59430,SAINT POL SUR MER
+Entity,850,"19 rue d'Epinal, ",88190,GOLBEY
+Entity,851,"6 place Stein, ",88000,EPINAL
+Entity,852,"85 bis rue d'Alsace, ",88000,EPINAL
+Entity,854,"34, boulevard de l'Europe, ",57070,METZ
+Entity,856,"60 boulevard de Lorraine, ",57506,SAINT AVOLD CEDEX
+Entity,857,"1 place de la Vieille Porte, ",57100,THIONVILLE
+Entity,860,"4 rue Franche, ",54160,PULLIGNY
+Entity,867,"52bis, route de Metz, ",54320,MAXEVILLE
+Entity,868,"31 avenue Foch, ",57000,METZ
+Entity,870,"88 voie de la Liberté, ",57160,SCY CHAZELLES
+Entity,873,"88 voie de la Liberté, ",57160,SCY-CHAZELLES
+Entity,874,"59, rue Nationale, ",57351,STIRING WENDEL
+Entity,875,"5 rue des Acacias, ",57140,LA MAXE
+Entity,876,"40 avenue de la 42ème Division, ",55100,VERDUN
+Entity,878,"14 rue du Malambas, ",57280,HAUCONCOURT
+Entity,879,"BP 75, ",57150,CREUTZWALD
+Entity,880,"8 place Théodore Paque, ",57500,SAINT AVOLD
+Entity,881,"62 rue des Cévennes, ",57690,CREHANGE
+Entity,882,"91 A rue de Betting, ",57800,BETTING LES SAINT AVOLD
+Entity,883,"7 rue du Général Mangin, ",57100,THIONVILLE
+Entity,885,"12 parc de la Tannerie, ",57070,SAINT JULIEN LES METZ
+Entity,887,"4 rue de l'Expansion, ",67150,ERSTEIN
+Entity,888,"10 A rue G. Clémenceau, ",67500,HAGUENAU
+Entity,889,"25 rue de la Sinne, ",68100,MULHOUSE
+Entity,890,"54 rue du Faubourg de Pierre, ",67000,STRASBOURG
+Entity,891,"4 place des Romains, ",67200,STRASBOURG
+Entity,892,"4 rue de Mittelbach, ",68100,MULHOUSE
+Entity,893,"1 rue de Lobsann, ",67250,SOULTZ SOUS FORETS
+Entity,895,"8 quai Kellermann, ",67000,STRASBOURG
+Entity,896,"87 route de Neuf-Brisach, ",68000,COLMAR
+Entity,897,"8, rue Golbéry, ",68000,COLMAR
+Entity,898,"27 A, route de Strasbourg, ",67600,SELESTAT
+Entity,899,"10 rue Sainte Marguerite, ",67000,STRASBOURG
+Entity,901,"36, avenue de la 1ère Division Blindée, ",68100,MULHOUSE
+Entity,902,"4 rue Saint Georges, ",67500,HAGUENAU
+Entity,903,"4 rue Daniel Schoen, ",68200,MULHOUSE
+Entity,905,"200 Grand'Rue, ",67500,HAGUENAU
+Entity,906,"1B, rue de Bouxwiller, ",67000,STRASBOURG
+Entity,907,"11 boulevard de la Dordogne, ",67000,STRASBOURG
+Entity,909,"11, boulevard Clémenceau, ",67000,STRASBOURG
+Entity,910,"127 Grand Rue, ",67500,HAGUENAU
+Entity,911,"12 rue du Travail, ",67000,STRASBOURG
+Entity,912,"15, Grand'Rue, ",67261,SARRE UNION CEDEX
+Entity,914,"21 rue de Thann, ",68000,COLMAR
+Entity,915,"1 rue travail, ",67000,STRASBOURG
+Entity,916,"51 rue de Valentigney, ",25400,AUDINCOURT
+Entity,918,"22 rue Porte de Chaux, ",25340,CLERVAL
+Entity,920,"43 rue Villedieu, ",25700,VALENTIGNEY
+Entity,922,"6, avenue des Usines - Bât. 12, ",90000,BELFORT
+Entity,924,"56, Rue de Trignac, ",44600,SAINT-NAZAIRE
+Entity,926,"31 bis place Jean Moulin, ",53000,LAVAL
+Entity,928,"108 Avenue de la République, ",44600,ST NAZAIRE
+Entity,929,"20 quai Ernest Renand, ",44000,NANTES
+Entity,930,"2, rue Printemps, ",44700,ORVAULT
+Entity,931,"La petite Fonteclose, ",85270,NOTRE DAME DE RIEZ
+Entity,934,"186, rue Nationale, ",49300,CHOLET
+Entity,936,"7, rue de la Tour d'Auvergne, ",44200,NANTES
+Entity,938,"5 rue Jacques Cartier, ",85000,LA ROCHE SUR YON
+Entity,939,"23 Place Pierre Sémard, ",44400,REZE
+Entity,940,"88 quai de la Fosse, ",44100,NANTES
+Entity,941,"20 route de Couëron, ",44360,SAINT ETIENNE DE MONTLUC
+Entity,943,"8 bis rue Constantine, ",7200,LE MANS
+Entity,945,"14 rue Maréchal Ney, ",85000,LA ROCHE SUR YON
+Entity,948,"15 rue de Lyon, ",29200,BREST
+Entity,950,"8-10 avenue Henri Fréville 10 bis, ",35200,RENNES
+Entity,951,"107 avenue Henri Fréville, ",35000,RENNES
+Entity,952,"6 quai de la Douane, ",29200,BREST
+Entity,954,"65-67 boulevard de la Tour d'Auvergne, ",35000,RENNES
+Entity,955,"47 rue du Docteur Rahuel, ",22000,SAINT-BRIEUC
+Entity,956,"39 ter boulevard de la Liberté, ",35000,RENNES
+Entity,957,"8 rue Sainte Anne, ",22100,QUEVERT
+Entity,958,"2, rue du Stade, ",44170,VAY
+Entity,959,"2 rue Pierre de Maupertuis, ",35170,BRUZ
+Entity,960,"123 avenue Aristide, ",35000,RENNES
+Entity,961,"19 rue du Papier Timbré, ",35000,RENNES
+Entity,964,"35 Rue du Pontic, ",29400,LANDIVISIAU
+Entity,965,"27 boulevard Clémenceau, ",22000,SAINT BRIEUC
+Entity,967,"253, rue Jean Jaurès, ",29200,BREST
+Entity,968,"37 quai de la Prévalaye, ",35000,RENNES
+Entity,969,"18 avenue Jean Jaurès, ",35400,SAINT MALO
+Entity,970,"124 Route de Lorient, ",35000,RENNES
+Entity,971,"303 avenue Jean Guiton, ",17000,LA ROCHELLE
+Entity,972,"16-18 boulevard du Grand Cerf, ",86000,POITIERS
+Entity,973,"38 avenue Georges Clémenceau, ",86100,CHATELLERAULT
+Entity,974,"1, rue Auguste Duclaud, ",16500,CONFOLENS
+Entity,977,"9 rue  du Chemin des Dames, ",86500,MONTMORILLON
+Entity,978,"24 boulevard Jeanne d'Arc, ",86000,POITIERS
+Entity,979,"24 boulevard Jeanne d'Arc, ",86000,POITIERS
+Entity,981,"4 avenue Gustave Eiffel, ",33600,PESSAC
+Entity,982,"104 Cours de la Martinique, ",33000,BORDEAUX
+Entity,983,"Route Nationale 117, ",64170,ARTIX
+Entity,984,"77 avenue des Lilas, ",64000,PAU
+Entity,986,"310 rue d'Ornano, ",33000,BORDEAUX
+Entity,988,"21 avenue Charles de Gaulle, ",33200,BORDEAUX
+Entity,989,"19 Cours Alsace lorraine, ",33000,BORDEAUX
+Entity,990,"11 Place Francheville, ",24000,PERIGUEUX
+Entity,991,"114 avenue Georges Clémenceau, ",40100,DAX
+Entity,993,"62, rue de la République, ",33660,ST-SEURIN SUR L'ISLE
+Entity,994,"1 route de Toulouse, ",33800,BORDEAUX
+Entity,995,"30 rue Michel Hounau, ",64000,PAU
+Entity,996,"16 rue Laplace, ",33700,MERIGNAC
+Entity,997,"22 quai des Chartrons, ",33000,BORDEAUX
+Entity,998,"3 rue d'Albert, ",47300,VILLENEUVE SUR LOT
+Entity,1000,"19 rue Edmond Michelet, ",33000,BORDEAUX
+Entity,1001,"9 rue des Garosses, ",33310,LORMONT
+Entity,1002,"38 bis rue Saubotte, ",33540,SAUVETERRE DE GUYENNE
+Entity,1003,"12 avenue de la Résistance, ",64000,PAU
+Entity,1004,"5 place Joseph Pancaut, ",40000,MONT DE MARSAN
+Entity,1005,"21 bis Place Charles de Gaulle, ",24600,RIBERAC
+Entity,1006,"11 rue du Président Wilson, ",24000,PERIGUEUX
+Entity,1008,"Chemin de la Montjoie, ",64800,NAY
+Entity,1009,"127 avenue des Minimes, ",31200,TOULOUSE
+Entity,1010,"3 rue du Carras, ",81100,CASTRES
+Entity,1011,"10 boulevard Delcassé, ",09100,PAMIERS
+Entity,1012,"36, avenue du Régiment de Bigorre, ",65000,TARBES
+Entity,1013,"38 rue Eugène Tenot, ",65000,TARBES
+Entity,1014,"17, rue Larrey, ",65000,TARBES
+Entity,1016,"2 rue d'Aubuisson, ",31000,TOULOUSE
+Entity,1017,"54 boulevard Déodat de Séverac, ",31300,TOULOUSE
+Entity,1018,"48 bis rue Léon-Cladel, ",82000,MONTAUBAN
+Entity,1019,"180 avenue Marcel Unal, ",82014,MONTAUBAN
+Entity,1020,"14 rue du Verdaussou, ",81300,GRAULHET
+Entity,1021,"67 avenue Gambetta, ",82000,MONTAUBAN
+Entity,1022,"67 avenue Gambetta, ",82000,MONTAUBAN
+Entity,1023,"22 rue de Larrey, ",65000,TARBES
+Entity,1024,"34 rue Gabriel Péri, ",31000,TOULOUSE
+Entity,1025,"48 rue de Metz, ",31000,TOULOUSE
+Entity,1026,"9 Boulevard de la Gare, ",31500,TOULOUSE
+Entity,1027,"20, avenue Clément Ader, ",31770,COLOMIERS
+Entity,1028,"5 Bis Cours Vergniaud, ",87000,LIMOGES
+Entity,1031,"43, avenue du Maréchal Foch, ",19100,BRIVE LA GAILLARDE
+Entity,1032,"22 rue de la République, ",38420,DOMENE
+Entity,1033,"82 chemin des Pâquerettes, ",38480,PONT DE BEAUVOISIN
+Entity,1034,"Rue des Ecoles, ",73240,SAINT GENIX SUR GUIERS
+Entity,1035,"215 avenue de la Libération, ",74800,LA ROCHE SUR FORON
+Entity,1036,"4 rue Louis Guérin, ",69626,VILLEURBANNE CEDEX
+Entity,1038,"47, cours Gambetta, ",69003,LYON
+Entity,1040,"20 place Jean Monnet, ",69330,MEYZIEU
+Entity,1041,"99 cours Berriat, ",38000,GRENOBLE
+Entity,1044,"7 avenue Gabriel Péri, ",38150,ROUSSILLON
+Entity,1045,"6 rue Aristide Briand, ",01000,BOURG EN BRESSE
+Entity,1046,"156 rue Vendôme, ",69003,LYON
+Entity,1047,"50 rue de la République, ",69002,LYON
+Entity,1048,"16 rue d'Alery, ",74000,ANNECY
+Entity,1049,"18 rue des Docteurs Charcot, ",42100,ST ETIENNE
+Entity,1051,"5 place de la Bascule, ",38500,VOIRON
+Entity,1052,"43 rue Sommeiller, ",74000,ANNECY
+Entity,1053,"7 rue Aimon de Chissée, ",38000,GRENOBLE
+Entity,1054,"95 cours Lafayette, ",69006,LYON
+Entity,1055,"23 rue Anatole France, ",01100,OYONNAX
+Entity,1056,"5 place du Marché, ",69360,SAINT SYMPHORIEN D'OZON
+Entity,1057,"10 avenue de la Plaine, ",74000,ANNECY
+Entity,1058,"19, boulevard Eugène Deruelle, ",69003,LYON
+Entity,1059,"99 rue de Gerland, ",69007,LYON
+Entity,1060,"10, impasse Youri Gagarine, ",38150,SALAISE SUR SANNE
+Entity,1061,"76 rue Pierre Debré, ",69008,LYON
+Entity,1062,"35, rue Léon Blum, ",69100,VILLEURBANNE
+Entity,1063,"6 ter rue Servient, ",69003,LYON
+Entity,1064,"30 route des Creusettes, ",74330,POISY
+Entity,1065,"118 Grande rue de la Guillotière, ",69007,LYON
+Entity,1066,"3 rue Jean-Marie Merle, ",69120,VAULX EN VELIN
+Entity,1067,"89 rue de Gerland, ",69007,LYON
+Entity,1069,"21 bis bd des Tchécoslovaques, ",69002,LYON
+Entity,1070,"140 rue Garibaldi, ",69006,LYON
+Entity,1071,"4 rue Duguesclin, ",69006,LYON
+Entity,1072,"76 rue Pierre Delore, ",69008,LYON
+Entity,1073,"2 rue Creuzet, ",69007,LYON
+Entity,1074,"178 quai Charles Roissard, ",73000,CHAMBERY
+Entity,1075,"75 rue du Dauphiné, ",69003,LYON
+Entity,1076,"2 rue Rossini Fontbarlettes, ",26000,VALENCE
+Entity,1078,"3 grande rue des Feuillants, ",69001,LYON
+Entity,1079,"277 avenue Berthelot, ",69008,LYON
+Entity,1080,"146 rue Vendôme, ",69006,LYON
+Entity,1081,"133/135 Avenue Franklin Roosevelt, ",69500,BRON
+Entity,1083,"26 avenue Jean Jaurès, ",69007,LYON
+Entity,1084,"1 avenue Antoine Dutrievoz, ",69100,VILLEURBANNE
+Entity,1085,"144 rue Garibaldi, ",69006,LYON
+Entity,1086,"36 cours Gambetta, ",69007,LYON
+Entity,1087,"207, rue de la Levée, ",01750,ST LAURENT SUR SAONE
+Entity,1088,"74 rue de Bonnel, ",69428,LYON CEDEX 03
+Entity,1089,"7 Place Hubert Dubedout, ",38000,GRENOBLE
+Entity,1090,"99 Grande rue de la Guillotière, ",69007,LYON
+Entity,1091,"42 avenue Grugliasco, ",38130,ECHIROLLES
+Entity,1092,"40 avenue Victor Hugo, ",69160,TASSIN LA DEMI LUNE
+Entity,1093,"3 allée de Challes, ",01000,BOURG EN BRESSE
+Entity,1094,"74 place de la République, ",01750,SAINT LAURENT SUR SAONE
+Entity,1096,"106, rue de la République, ",38550,PEAGE DE ROUSSILLON
+Entity,1097,"9 avenue Denfert Rochereau, ",42000,SAINT ETIENNE
+Entity,1098,"Le Temple, ",26460,BOUVIERES
+Entity,1099,"105 rue de la Tête d'Or, ",69006,LYON
+Entity,1100,"4 rue Duguesclin, ",69006,LYON
+Entity,1101,"50 quai Farconnet, ",07300,TOURNON SUR RHONE
+Entity,1102,"3 bis rue Alphonse Terray, ",38000,GRENOBLE
+Entity,1104,"12 rue d'Estaing, ",63000,CLERMONT-FERRAND
+Entity,1105,"1-3 rue Berthelot (ancienne poste), ",03000,MOULINS
+Entity,1106,"6 rue du Quatre Septembre, ",03000,MOULINS
+Entity,1108,"91 rue d'Allier, ",03000,MOULINS
+Entity,1109,"16 rue Bretonnie, ",03100,MONTLUCON
+Entity,1110,"20, avenue Meunier, ",03011,MOULINS CEDEX
+Entity,1111,"2, rue de la Couarde, ",63570,BRASSAC LES MINES
+Entity,1112,"315, rue de la Marquerose, ",34070,MONTPELLIER
+Entity,1113,"38 Boulevard de Strasbourg, ",34000,MONTPELLIER
+Entity,1115,"7 rue du Pont-Neuf, ",11300,LIMOUX
+Entity,1116,"63 boulevard Frédéric Mistral, ",34500,BEZIERS
+Entity,1119,"24, impasse du Marquis de Baroncelli, ",30114,NAGES ET SOLORGUES
+Entity,1122,"33 rue JJ Rousseau, ",34330,AGDE
+Entity,1124,"61 boulevard de Strasbourg, ",34000,MONTPELLIER
+Entity,1125,"1 rue Cité Benoit, ",34000,MONTPELLIER
+Entity,1128,"1271 avenue des Marchés, ",84200,CARPENTRAS
+Entity,1129,"Parc Actimart Bat I B 1140 rue Ampère, ",13851,Aix en Provence
+Entity,1130,"98 avenue de l'Europe, ",13127,VITROLLES
+Entity,1133,"1 bd Luce, ",13009,MARSEILLE
+Entity,1135,"326 route de Bellet, ",06200,NICE
+Entity,1136,"143 avenue de la Californie, ",06200,NICE
+Entity,1138,"180 avenue de la Côte Bleue, ",13820,ENSUES LA REDONNE
+Entity,1139,"13 boulevard d'Athènes, ",13001,MARSEILLE
+Entity,1142,"5 rue Henri Barbusse, ",13001,MARSEILLE
+Entity,1144,"23 rue Mirabeau, ",83000,TOULON
+Entity,1145,"59 rue Rossini, ",06000,NICE
+Entity,1146,"57 rue Rossini, ",06000,NICE
+Entity,1148,"14 rue de Montgrand, ",13006,MARSEILLE
+Entity,1150,"126 avenue de la Californie, ",06200,NICE
+Entity,1154,"37 bd Auguste Raynaud, ",06100,NICE
+Entity,1155,"2 chemin du Balilla, ",13200,ARLES
+Entity,1156,"36 boulevard de l'Océan, ",13009,MARSEILLE
+Entity,1158,"5 rue du Comte Vert, ",06300,NICE
+Entity,1161,"12 boulevard Auguste Gaudin, ",20200,BASTIA
+Entity,1163,"14, rue Sully Prudhomme, ",97822,LE PORT CX (REUNION)
+Entity,1166,"26 ZI les Mangles Acajou, ",97232,LAMENTIN
+Entity,1167,"23 rue Yves Goussard, ",97200,FORT DE FRANCE
+Entity,1168,"21b route des Premiers Français, ",97460,SAINT-PAUL
+Entity,1169,"25 Rue Louis le Grand",75002,PARIS
+Entity,1170,"25 Rue Louis le Grand",75002,PARIS
+Entity,1171,"25 Rue Louis le Grand",75002,PARIS
+Entity,1172,"10 Rue Villa Maria",44000,NANTES
+Entity,1173,"1 Rue de S Qu Atre Chapeaux",69002,LYON
+Entity,1174,"7, rue de la Visitation",35000,RENNES
+Entity,1175,"25 Rue Louis le Grand",75002,PARIS
+Entity,1176,"28 Rue des Arts",59800,LILLE

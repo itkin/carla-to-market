@@ -1,0 +1,67 @@
+@import "compass/reset"
+@import "compass/css3"
+
+@include font-face("Androgyne", font-files("AndrogyneMedium.ttf", truetype, "AndrogyneMedium.otf", opentype),"AndrogyneMedium.eot")
+
+body
+  font-family: arial
+
+  .spacer
+    clear: both
+    line-height: 1px
+    font-size: 0.1px
+
+  #header
+    border: none
+    margin-bottom: 1px
+    #title
+      height: 60px
+      line-height: 65px
+      font-size: 40px
+      padding-left: 10px
+      font-family: Androgyne
+
+    #deconnect
+      float: right
+      padding: 10px 5px
+      margin-left: 20px
+    #notice
+      float: right
+      padding: 10px 5px
+
+
+  // ACTIVESCAFFOLD
+  .active-scaffold
+    input.text-input, textarea, select
+      width: 400px
+
+    .show-view dd
+      font-weight: normal
+    .show-view dt, .show-view dd.name-view
+      font-weight: bold
+
+    // items séléctionnés sur les coté
+    .record-select-list
+      float: right
+      margin-top: 5px
+      li
+        float: left
+
+    //Gere les sous formulaires overridés
+    .address-subform, .phone-subform
+      margin-left: -5px
+      ol.association-record
+        margin-left: 0
+        padding-left: 0
+
+    //Gere le regroupement des entités
+    .toggle-entity-children
+      position: relative
+      padding-left: 20px
+      span
+        position: absolute
+        top: 50%
+        margin-top: -8px
+    a[id^="as_entities"][id$="index--link"]
+
+      display: none

@@ -1,0 +1,7 @@
+nicolas:
+  email: nicolas@w3bflows.com
+  encrypted_password: $2a$10$mFkmdrOrxL0eL9RsE0wBM.f8W1qP3EsWavRvWJAkbOpMqBsydYpEK
+
+david:
+  email: david@w3bflows.com
+  encrypted_password: $2a$10$mFkmdrOrxL0eL9RsE0wBM.f8W1qP3EsWavRvWJAkbOpMqBsydYpEK
