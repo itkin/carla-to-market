@@ -6,8 +6,17 @@ $(function(){
     $('#header #notice').fadeOut('slow');
   }, 5000);
 
+
   // Les tabs
-  $('#tabs').tabs().outerHeight($(window).height()-$('#tabs').offset().top-5,true);
+  $('#tabs').tabs().css('minHeight',$(window).height()-$('#tabs').offset().top-10);
+
+
+  $('#tags').buttonset().change(function(e){
+    $.get('/entities?'+ $('#tags').serialize(), function(data){
+      $('#as_entities-active-scaffold').replaceWith(data);
+    });
+  });
+
 
 
   // Gere le regroupement des entités

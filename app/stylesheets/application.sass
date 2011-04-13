@@ -30,6 +30,9 @@ body
       padding: 10px 5px
 
 
+  #tags
+    font-variant: small-caps
+    font-style: italic
   // ACTIVESCAFFOLD
   .active-scaffold
     input.text-input, textarea, select
@@ -53,11 +56,25 @@ body
         float: left
 
     //Gere les sous formulaires overridés
-    .address-subform, .phone-subform
+    .address-subform, .phone-subform, .financial_data-subform
       margin-left: -5px
       ol.association-record
         margin-left: 0
         padding-left: 0
+
+    td.turnover-column
+      min-width: 8em
+      text-align: center
+    td.comment-column a
+      color: black
+
+    ul.checkbox-list
+      padding-top: 6px
+      float: left
+
+    dd.tags-view
+      font-variant: small-caps
+      font-style: italic
 
     //Gere le regroupement des entités
     .toggle-entity-children

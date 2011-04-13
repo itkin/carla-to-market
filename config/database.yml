@@ -2,7 +2,7 @@
 #   gem install sqlite3
 development:
   adapter: mysql
-  database: carla_to_market_dev
+  database: carla_to_market_prod
   username: rails
   password: rails
   encoding: UTF8

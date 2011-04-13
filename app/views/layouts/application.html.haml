@@ -25,6 +25,12 @@
         %li= link_to "Entités", "#entities"
         %li= link_to "Contacts", contacts_path
         %li= link_to "Actions", actions_path
+        %li= link_to "Tags", tags_path
       #entities
+        %form#tags
+          - Tag.all.each do |tag|
+            = label_tag "tag_#{tag.id}", tag.label
+            = check_box_tag 'tag_ids[]', tag.id, false, :id => "tag_#{tag.id}", :autocomplete=>"off"
+
         = yield
 

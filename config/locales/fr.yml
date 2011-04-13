@@ -90,6 +90,7 @@ fr:
         precision: 0
         significant: false
         strip_insignificant_zeros: false
+        negative_format: "- %n %u"
     percentage:
       format:
         delimiter: ""
@@ -192,6 +193,7 @@ fr:
       entity: Entitée
       financial_data: Données financières
       phone: Téléphone
+      tag: Etiquette
     attributes:
       action:
         title: Titre
@@ -220,16 +222,22 @@ fr:
         comment: Commentaire
         address: Adresse
         phone: Téléphone
-        financial_data_last_turnover: Dernier CA
-        financial_data_last_ebe: Dernier EBE
-        financial_data_last_nb_employees: Dernier effectifs
+        turnover: CA
+        ebe: EBE
+        financial_data_year: Année données financières
+        nb_employees: Effectifs
+        tags: Etiquettes
       financial_data:
         entity: Entitée
         ebe: EBE
         turnover: CA
         year: Année
-        nb_employees: Effectif
+        nb_employees: Effectifs
         profit: Resulat
+      tag:
+        label: Label
+        comment: Description
+
 
 
 

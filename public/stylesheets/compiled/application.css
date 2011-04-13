@@ -99,56 +99,80 @@ body #header #notice {
   float: right;
   padding: 10px 5px;
 }
-/* line 35, ../../../app/stylesheets/application.sass */
+/* line 33, ../../../app/stylesheets/application.sass */
+body #tags {
+  font-variant: small-caps;
+  font-style: italic;
+}
+/* line 38, ../../../app/stylesheets/application.sass */
 body .active-scaffold input.text-input, body .active-scaffold textarea, body .active-scaffold select {
   width: 400px;
 }
-/* line 38, ../../../app/stylesheets/application.sass */
+/* line 41, ../../../app/stylesheets/application.sass */
 body .active-scaffold strong {
   font-weight: bold;
 }
-/* line 40, ../../../app/stylesheets/application.sass */
+/* line 43, ../../../app/stylesheets/application.sass */
 body .active-scaffold em {
   font-style: italic;
 }
-/* line 43, ../../../app/stylesheets/application.sass */
+/* line 46, ../../../app/stylesheets/application.sass */
 body .active-scaffold .show-view dd {
   font-weight: normal;
 }
-/* line 45, ../../../app/stylesheets/application.sass */
+/* line 48, ../../../app/stylesheets/application.sass */
 body .active-scaffold .show-view dt, body .active-scaffold .show-view dd.name-view {
   font-weight: bold;
 }
-/* line 49, ../../../app/stylesheets/application.sass */
+/* line 52, ../../../app/stylesheets/application.sass */
 body .active-scaffold .record-select-list {
   float: right;
   margin-top: 5px;
 }
-/* line 52, ../../../app/stylesheets/application.sass */
+/* line 55, ../../../app/stylesheets/application.sass */
 body .active-scaffold .record-select-list li {
   float: left;
 }
-/* line 56, ../../../app/stylesheets/application.sass */
-body .active-scaffold .address-subform, body .active-scaffold .phone-subform {
+/* line 59, ../../../app/stylesheets/application.sass */
+body .active-scaffold .address-subform, body .active-scaffold .phone-subform, body .active-scaffold .financial_data-subform {
   margin-left: -5px;
 }
-/* line 58, ../../../app/stylesheets/application.sass */
-body .active-scaffold .address-subform ol.association-record, body .active-scaffold .phone-subform ol.association-record {
+/* line 61, ../../../app/stylesheets/application.sass */
+body .active-scaffold .address-subform ol.association-record, body .active-scaffold .phone-subform ol.association-record, body .active-scaffold .financial_data-subform ol.association-record {
   margin-left: 0;
   padding-left: 0;
 }
-/* line 63, ../../../app/stylesheets/application.sass */
+/* line 65, ../../../app/stylesheets/application.sass */
+body .active-scaffold td.turnover-column {
+  min-width: 8em;
+  text-align: center;
+}
+/* line 68, ../../../app/stylesheets/application.sass */
+body .active-scaffold td.comment-column a {
+  color: black;
+}
+/* line 71, ../../../app/stylesheets/application.sass */
+body .active-scaffold ul.checkbox-list {
+  padding-top: 6px;
+  float: left;
+}
+/* line 75, ../../../app/stylesheets/application.sass */
+body .active-scaffold dd.tags-view {
+  font-variant: small-caps;
+  font-style: italic;
+}
+/* line 80, ../../../app/stylesheets/application.sass */
 body .active-scaffold .toggle-entity-children {
   position: relative;
   padding-left: 20px;
 }
-/* line 66, ../../../app/stylesheets/application.sass */
+/* line 83, ../../../app/stylesheets/application.sass */
 body .active-scaffold .toggle-entity-children span {
   position: absolute;
   top: 50%;
   margin-top: -8px;
 }
-/* line 70, ../../../app/stylesheets/application.sass */
+/* line 87, ../../../app/stylesheets/application.sass */
 body .active-scaffold a[id^="as_entities"][id$="index--link"] {
   display: none;
 }

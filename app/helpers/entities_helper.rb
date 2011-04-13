@@ -17,6 +17,9 @@ module EntitiesHelper
   def comment_show_column(record)
     comment_column(record)
   end
+  def financial_data_column(record)
+    record.nb_employees
+  end
   def actions_column(record)
     total = record.actions.count
     if total != 0

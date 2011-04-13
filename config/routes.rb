@@ -78,6 +78,9 @@ CarlaToMarket::Application.routes.draw do
   resources :financial_data do
     as_routes
   end
+  resources :tags do
+    as_routes
+  end
 
   root :to => "entities#index"
 

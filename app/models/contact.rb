@@ -1,6 +1,6 @@
 class Contact < ActiveRecord::Base
 
-  has_and_belongs_to_many :entities
+  has_and_belongs_to_many :entities, :uniq => true
   has_and_belongs_to_many :actions
   has_one :phone, :as => :phonable
   belongs_to :civility

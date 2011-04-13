@@ -15,11 +15,4 @@ class ApplicationController < ActionController::Base
     end
   end
 
-  def options_for_association_conditions(association)
-#    if ['actions'].include?(association.name)
-#      nil #['false']
-#    else
-#      super
-#    end
-  end
 end

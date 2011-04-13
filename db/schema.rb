@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110412135537) do
+ActiveRecord::Schema.define(:version => 20110413104314) do
 
   create_table "actions", :force => true do |t|
     t.date     "date"
@@ -95,6 +95,14 @@ ActiveRecord::Schema.define(:version => 20110412135537) do
     t.string   "registration_number"
   end
 
+  create_table "entities_tags", :id => false, :force => true do |t|
+    t.integer "entity_id"
+    t.integer "tag_id"
+  end
+
+  add_index "entities_tags", ["entity_id"], :name => "index_entities_tags_on_entity_id"
+  add_index "entities_tags", ["tag_id"], :name => "index_entities_tags_on_tag_id"
+
   create_table "financial_data", :force => true do |t|
     t.integer  "entity_id"
     t.integer  "year"
@@ -117,6 +125,13 @@ ActiveRecord::Schema.define(:version => 20110412135537) do
   end
 
   add_index "phones", ["phonable_id"], :name => "index_phones_on_phonable_id"
+
+  create_table "tags", :force => true do |t|
+    t.string   "label"
+    t.text     "comment"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "users", :force => true do |t|
     t.string   "email",                               :default => "", :null => false
