@@ -218,6 +218,7 @@ fr:
       entity:
         name: Dénomination
         registration_number: SIREN/SIRET
+        registered_on: Immatriculée le
         website: Site web
         comment: Commentaire
         address: Adresse

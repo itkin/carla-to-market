@@ -5,8 +5,8 @@ class EntitiesController < ApplicationController
 
     config.columns << [:financial_data_year, :turnover, :ebe, :profit, :nb_employees]
     config.list.columns = [:name, :turnover, :website, :comment, :actions]
-    config.create.columns = config.update.columns = [:tags, :parent_id, :name, :registration_number, :website, :comment, :financial_data, :address, :phone]
-    config.show.columns = [:tags, :parent, :name, :registration_number, :website, :comment, :financial_data_year, :turnover, :ebe, :profit, :nb_employees, :address, :phone]
+    config.create.columns = config.update.columns = [:tags, :parent_id, :name, :website, :registration_number, :registered_on, :comment, :financial_data, :address, :phone]
+    config.show.columns = [:tags, :parent, :name, :website, :registration_number, :registered_on, :comment, :financial_data_year, :turnover, :ebe, :profit, :nb_employees, :address, :phone]
 
     config.columns[:tags].form_ui = :select
 

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110413104314) do
+ActiveRecord::Schema.define(:version => 20110418135121) do
 
   create_table "actions", :force => true do |t|
     t.date     "date"
@@ -93,6 +93,7 @@ ActiveRecord::Schema.define(:version => 20110413104314) do
     t.string   "ancestry"
     t.integer  "ancestry_depth",      :default => 0
     t.string   "registration_number"
+    t.date     "registered_on"
   end
 
   create_table "entities_tags", :id => false, :force => true do |t|
