@@ -8,6 +8,8 @@ class EntitiesController < ApplicationController
     config.create.columns = config.update.columns = [:tags, :parent_id, :name, :website, :registration_number, :registered_on, :comment, :financial_data, :address, :phone, :attachments]
     config.show.columns = [:tags, :parent, :name, :website, :registration_number, :registered_on, :comment, :financial_data_year, :turnover, :ebe, :profit, :nb_employees, :address, :phone, :attachments]
 
+    config.create.multipart = config.update.multipart = true
+
     config.columns[:attachments].allow_add_existing = false
 
     config.columns[:tags].form_ui = :select
