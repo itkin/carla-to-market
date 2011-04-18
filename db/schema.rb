@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110418135121) do
+ActiveRecord::Schema.define(:version => 20110418163159) do
 
   create_table "actions", :force => true do |t|
     t.date     "date"
@@ -63,6 +63,18 @@ ActiveRecord::Schema.define(:version => 20110418135121) do
   end
 
   add_index "answers", ["answerable_id"], :name => "index_answers_on_answerable_id"
+
+  create_table "attachments", :force => true do |t|
+    t.string   "attachable_type"
+    t.integer  "attachable_id"
+    t.text     "comment"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "binary_file_name"
+    t.string   "binary_content_type"
+    t.integer  "binary_file_size"
+    t.datetime "binary_updated_at"
+  end
 
   create_table "civilities", :force => true do |t|
     t.string "name"

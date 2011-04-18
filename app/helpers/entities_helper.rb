@@ -41,4 +41,8 @@ module EntitiesHelper
   def parent_show_column(record)
     record.parent.to_label if record.parent
   end
+
+  def attachments_show_column(record)
+    raw record.attachments.collect{ |attachment| binary_file_name_column(attachment)}.join(', ')
+  end
 end

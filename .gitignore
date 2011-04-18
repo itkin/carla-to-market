@@ -4,4 +4,4 @@ log/*.log
 tmp/
 public/system/
 .idea/
-
+public/javascript/active_scaffold/default/

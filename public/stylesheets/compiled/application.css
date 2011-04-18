@@ -176,3 +176,10 @@ body .active-scaffold .toggle-entity-children span {
 body .active-scaffold a[id^="as_entities"][id$="index--link"] {
   display: none;
 }
+/* line 92, ../../../app/stylesheets/application.sass */
+body .active-scaffold .attachment-subform .actions {
+  float: left;
+  position: relative;
+  top: 3px;
+  left: 5px;
+}

@@ -9,6 +9,8 @@ class Entity < ActiveRecord::Base
   has_and_belongs_to_many :actions
   has_and_belongs_to_many :tags, :uniq => true
 
+  has_many :attachments, :as => :attachable
+
   has_one :financial_data, :class_name => 'FinancialData'
 
   accepts_nested_attributes_for :phone, :address
