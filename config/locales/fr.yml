@@ -228,6 +228,7 @@ fr:
         financial_data_year: Année données financières
         nb_employees: Effectifs
         tags: Etiquettes
+        activity_sectors: Secteurs d'activité
       financial_data:
         entity: Entitée
         ebe: EBE
@@ -238,6 +239,9 @@ fr:
       tag:
         label: Label
         comment: Description
+      activity_sector:
+        name: Nom
+        position: Ordre
 
 
 

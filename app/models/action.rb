@@ -9,5 +9,6 @@ class Action < ActiveRecord::Base
   def self.on_going
     where(:date >= Date.today)
   end
+
   default_scope :order => 'actions.created_at asc'
 end

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110418163159) do
+ActiveRecord::Schema.define(:version => 20110512150545) do
 
   create_table "actions", :force => true do |t|
     t.date     "date"
@@ -40,6 +40,18 @@ ActiveRecord::Schema.define(:version => 20110418163159) do
   end
 
   add_index "actions_users", ["user_id", "action_id"], :name => "index_actions_users_on_user_id_and_action_id"
+
+  create_table "activity_sectors", :force => true do |t|
+    t.string   "name"
+    t.integer  "position"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "activity_sectors_entities", :id => false, :force => true do |t|
+    t.integer "activity_sector_id"
+    t.integer "entity_id"
+  end
 
   create_table "addresses", :force => true do |t|
     t.string   "addressable_type"
@@ -106,6 +118,7 @@ ActiveRecord::Schema.define(:version => 20110418163159) do
     t.integer  "ancestry_depth",      :default => 0
     t.string   "registration_number"
     t.date     "registered_on"
+    t.integer  "capital"
   end
 
   create_table "entities_tags", :id => false, :force => true do |t|
