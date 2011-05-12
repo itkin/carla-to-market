@@ -5,8 +5,8 @@ class EntitiesController < ApplicationController
 
     config.columns << [:financial_data_year, :turnover, :ebe, :profit, :nb_employees]
     config.list.columns = [:name, :turnover, :website, :comment, :actions]
-    config.create.columns = config.update.columns = [:tags, :parent_id, :name, :website, :registration_number, :registered_on, :comment, :financial_data, :address, :phone, :attachments]
-    config.show.columns = [:tags, :parent, :name, :website, :registration_number, :registered_on, :comment, :financial_data_year, :turnover, :ebe, :profit, :nb_employees, :address, :phone, :attachments]
+    config.create.columns = config.update.columns = [:tags, :parent_id, :name, :website, :registration_number, :capital, :registered_on, :comment, :financial_data, :address, :phone, :attachments]
+    config.show.columns = [:tags, :parent, :name, :website, :registration_number, :capital, :registered_on, :comment, :financial_data_year, :turnover, :ebe, :profit, :nb_employees, :address, :phone, :attachments]
 
     config.create.multipart = config.update.multipart = true
 
@@ -14,7 +14,7 @@ class EntitiesController < ApplicationController
 
     config.columns[:tags].form_ui = :select
 
-    config.columns[:ebe].options[:format] = config.columns[:turnover].options[:format] = :currency
+    config.columns[:capital].options[:format] = config.columns[:ebe].options[:format] = config.columns[:turnover].options[:format] = :currency
     config.columns[:profit].options[:format] = :percentage
 
     config.columns[:turnover].includes = [:financial_data, :tags]
